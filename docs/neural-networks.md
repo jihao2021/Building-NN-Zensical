@@ -26,13 +26,9 @@ Deep neural networks (DNN) usually have more hidden layers, but still use the sa
 
 For an input image of size 28×28 (784 pixels):
 
-$$
-Z_1 = w_{11} x_1 + w_{12} x_2 + w_{13} x_3 + b_1
-$$
+$$ Z_1 = w_{11} x_1 + w_{12} x_2 + w_{13} x_3 + b_1 $$
 
-$$
-a_1 = f(Z_1) = \text{ReLU}(Z_1)
-$$
+$$ a_1 = f(Z_1) = \operatorname{ReLU}(Z_1) $$
 
 Weights are typically initialized randomly.
 
