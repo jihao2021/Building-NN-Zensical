@@ -6,6 +6,8 @@ icon: lucide/lightbulb
 
 From the CARC workshop slides by Hao Ji, Data Scientist, USC Center for Advanced Research Computing.
 
+![Workshop title](images/docs-title.png)
+
 ## What is Deep Learning?
 
 Deep Learning is a subfield of traditional machine learning.
@@ -16,6 +18,8 @@ Deep Learning is a subfield of traditional machine learning.
   - **Text Generation**: An algorithm trained to create a new Shakespeare piece
   - **Speech recognition**
   - **Computer Games**: AlphaGo
+
+![Deep learning applications](images/docs-apps.png)
 
 ## What Drives Recent Development?
 
