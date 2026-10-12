@@ -22,3 +22,5 @@ The static site is generated in the `site/` directory and can be deployed to Git
 ## Source Materials
 
 Adapted from [uschpc/Building-NeuralNetworks](https://github.com/uschpc/Building-NeuralNetworks).
+
+
