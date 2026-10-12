@@ -8,7 +8,7 @@ icon: lucide/network
 
 Artificial neural networks are inspired by biological neurons.
 
-![Biological neuron vs artificial neural network](/images/docs-neuron.png)
+![Biological neuron vs artificial neural network](/Building-NN-Zensical/images/docs-neuron.png)
 
 ## Network Structure
 
@@ -20,7 +20,7 @@ A neural network (NN) has 3 types of layers:
 
 Deep neural networks (DNN) usually have more hidden layers, but still use the same 3 types of layers.
 
-![Neural network layers](/images/docs-layers.png)
+![Neural network layers](/Building-NN-Zensical/images/docs-layers.png)
 
 ## Forward Pass Example
 
@@ -32,7 +32,7 @@ $$ a_1 = f(Z_1) = \operatorname{ReLU}(Z_1) $$
 
 Weights are typically initialized randomly.
 
-![Forward pass illustration](/images/docs-forward.png)
+![Forward pass illustration](/Building-NN-Zensical/images/docs-forward.png)
 
 ## Three Steps to Training a Neural Network
 
@@ -40,7 +40,7 @@ Weights are typically initialized randomly.
 2. **Compute the cost**: Calculate the difference between predicted output and actual data
 3. **Backward propagation**: Push back the derivative of the error and apply it to each weight, so that next time it results in a lower error
 
-![Training steps](/images/docs-training.png)
+![Training steps](/Building-NN-Zensical/images/docs-training.png)
 
 ## Training Pipeline
 
