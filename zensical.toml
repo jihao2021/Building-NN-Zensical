@@ -12,6 +12,9 @@ edit_uri = "edit/main/docs/"
 
 nav = [
   { "Home" = "index.md" },
+  { "Introduction" = "intro.md" },
+  { "Neural Networks" = "neural-networks.md" },
+  { "PyTorch Basics" = "pytorch-basics.md" },
   { "Environment Setup" = "setup.md" },
   { "PyTorch Tutorial" = "tutorial.md" },
   { "Slides & Resources" = "resources.md" },
